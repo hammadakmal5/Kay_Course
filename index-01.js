@@ -4,4 +4,6 @@
 
 console.log("Hello Javascript");
 
-console.log("I am Tutoring Javascript to Kay")
+console.log("I am Tutoring Javascript to Kay");
+
+console.log("Added another line");
